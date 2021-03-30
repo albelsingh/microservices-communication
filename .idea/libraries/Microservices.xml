@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Microservices">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/movie-info-services.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rating-data-services.zip!/" />
+      <root url="jar://$PROJECT_DIR$/movie-catalog-services.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
